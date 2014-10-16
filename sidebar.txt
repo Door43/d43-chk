@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[chk:home|Door43 (chk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-chk|d43-chk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-chk/archive/master.zip|d43-chk.zip]]
+
+**Recent Changes**
+{{changes>ns = chk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/chk|Ethnologue data]]
+
